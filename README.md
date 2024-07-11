@@ -1,2 +1,2 @@
 # FlutterDio
-Repositorio para uso na plataforma DIO.me
+Repositório para uso na plataforma DIO.me
